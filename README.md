@@ -1,1 +1,1 @@
-# python
+此项目为基于pytorch的卷积神经网络识别是否为奥特曼，其中test和train训练集在
